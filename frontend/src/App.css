@@ -1,0 +1,142 @@
+/* 🌈 BACKGROUND */
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+}
+
+/* MAIN WRAPPER */
+.app {
+  height: 100vh;
+}
+
+/* DASHBOARD LAYOUT */
+.dashboard {
+  display: flex;
+  height: 100%;
+}
+
+/* LEFT PANEL */
+.left-panel {
+  width: 35%;
+  padding: 30px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+/* RIGHT PANEL (MAP) */
+.right-panel {
+  width: 65%;
+  height: 100%;
+  padding: 10px;
+}
+
+/* MAP FIX */
+.right-panel .leaflet-container {
+  height: 100%;
+  width: 100%;
+  border-radius: 15px;
+}
+
+/* TITLE */
+.title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+/* CARD */
+.card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(15px);
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+
+/* INPUT */
+input {
+  width: 90%;
+  padding: 12px;
+  margin: 8px 0;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+}
+
+/* BUTTON */
+button {
+  width: 95%;
+  padding: 12px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 12px;
+  background: linear-gradient(45deg, #ff416c, #ff4b2b);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 10px #ff4b2b;
+}
+
+/* RESULT CARD */
+.result-card {
+  padding: 15px;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+}
+
+/* COLORS */
+.result-card.low {
+  border: 2px solid #22c55e;
+}
+
+.result-card.medium {
+  border: 2px solid #f59e0b;
+}
+
+.result-card.high {
+  border: 2px solid #ef4444;
+}
+
+/* ERROR */
+.error {
+  color: #ff6b6b;
+  margin-top: 10px;
+}
+
+/* PLACEHOLDER */
+.map-placeholder {
+  color: white;
+  text-align: center;
+  margin-top: 40%;
+  font-size: 1.2rem;
+}
+/* 🔥 TABS */
+.tabs {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.tabs button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+  background: rgba(255,255,255,0.2);
+  color: white;
+  cursor: pointer;
+}
+
+.tabs button.active {
+  background: #3b82f6;
+}
