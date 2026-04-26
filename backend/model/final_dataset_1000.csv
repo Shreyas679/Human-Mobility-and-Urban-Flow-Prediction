@@ -1,0 +1,1001 @@
+location_name,hour,weekday,month,is_weekend,is_holiday,location_type,context_type,is_sunset_time,is_nightlife_time,is_office_rush,season_factor,crowd_density
+Beach,19,5,1,1,0,beach,tourist,0,0,0,1.2,100
+City Area,22,1,11,0,0,urban,urban,0,0,0,1.4,30
+City Area,15,2,5,0,0,urban,urban,0,0,0,1.0,46
+Beach,15,2,2,0,0,beach,tourist,0,0,0,1.2,52
+Hill Station,9,4,4,0,0,tourist,tourist,0,0,0,1.0,16
+Office Area,9,6,3,1,0,office,urban,0,0,1,1.2,69
+Hill Station,20,4,2,0,0,tourist,tourist,0,0,0,1.2,71
+Office Area,13,2,3,0,0,office,urban,0,0,0,1.2,50
+Mall Area,20,5,9,1,0,mall,urban,0,0,0,1.0,100
+Village Area,9,2,1,0,0,rural,rural,0,0,0,1.2,12
+City Area,9,6,10,1,0,urban,urban,0,0,0,1.4,60
+Beach,22,5,12,1,0,beach,tourist,0,1,0,1.4,87
+Office Area,15,6,1,1,0,office,urban,0,0,0,1.2,80
+Office Area,18,2,8,0,0,office,urban,1,0,1,0.7,71
+Office Area,22,5,4,1,0,office,urban,0,0,0,1.0,44
+Market Area,19,1,5,0,0,market,urban,0,0,0,1.0,84
+Mall Area,13,4,8,0,0,mall,urban,0,0,0,0.7,34
+City Area,13,0,5,0,0,urban,urban,0,0,0,1.0,46
+Office Area,18,5,8,1,0,office,urban,1,0,1,0.7,83
+Market Area,15,1,10,0,0,market,urban,0,0,0,1.4,84
+Mall Area,15,5,7,1,0,mall,urban,0,0,0,0.7,42
+Office Area,22,6,1,1,0,office,urban,0,0,0,1.2,53
+Village Area,13,3,11,0,0,rural,rural,0,0,0,1.4,47
+Office Area,22,1,2,0,0,office,urban,0,0,0,1.2,24
+Market Area,20,3,10,0,0,market,urban,0,0,0,1.4,100
+Mall Area,22,2,10,0,0,mall,urban,0,0,0,1.4,27
+City Area,20,1,9,0,0,urban,urban,0,0,0,1.0,56
+Mall Area,15,4,6,0,0,mall,urban,0,0,0,0.7,30
+Mall Area,11,4,3,0,0,mall,urban,0,0,0,1.2,57
+Hill Station,13,6,8,1,0,tourist,tourist,0,0,0,0.7,46
+Market Area,22,6,5,1,0,market,urban,0,0,0,1.0,61
+Village Area,20,2,2,0,0,rural,rural,0,0,0,1.2,54
+Office Area,15,6,9,1,0,office,urban,0,0,0,1.0,67
+City Area,20,5,4,1,0,urban,urban,0,0,0,1.0,80
+Market Area,9,1,2,0,0,market,urban,0,0,0,1.2,39
+Mall Area,15,3,4,0,0,mall,urban,0,0,0,1.0,47
+Beach,13,1,7,0,0,beach,tourist,0,0,0,0.7,28
+Market Area,9,6,10,1,0,market,urban,0,0,0,1.4,71
+City Area,13,1,7,0,0,urban,urban,0,0,0,0.7,35
+Beach,17,5,11,1,0,beach,tourist,1,0,0,1.4,100
+Office Area,20,6,4,1,0,office,urban,0,0,1,1.0,100
+Beach,11,3,12,0,0,beach,tourist,0,0,0,1.4,66
+Village Area,9,0,8,0,0,rural,rural,0,0,0,0.7,5
+Office Area,19,6,9,1,0,office,urban,0,0,1,1.0,100
+Village Area,19,3,3,0,0,rural,rural,0,0,0,1.2,57
+Hill Station,18,1,11,0,0,tourist,tourist,1,0,0,1.4,100
+Office Area,9,2,7,0,0,office,urban,0,0,1,0.7,43
+Beach,18,3,1,0,0,beach,tourist,1,0,0,1.2,100
+Office Area,9,5,3,1,0,office,urban,0,0,1,1.2,78
+City Area,13,5,3,1,0,urban,urban,0,0,0,1.2,82
+Village Area,11,6,8,1,0,rural,rural,0,0,0,0.7,26
+Market Area,13,1,10,0,0,market,urban,0,0,0,1.4,86
+Hill Station,20,6,6,1,0,tourist,tourist,0,0,0,0.7,60
+Mall Area,22,6,5,1,0,mall,urban,0,0,0,1.0,35
+Mall Area,18,3,8,0,0,mall,urban,1,0,0,0.7,74
+Mall Area,9,5,6,1,0,mall,urban,0,0,0,0.7,31
+Market Area,9,3,4,0,0,market,urban,0,0,0,1.0,37
+Village Area,11,3,3,0,0,rural,rural,0,0,0,1.2,36
+Market Area,22,4,3,0,0,market,urban,0,0,0,1.2,44
+Beach,18,1,10,0,0,beach,tourist,1,0,0,1.4,100
+Market Area,15,1,2,0,0,market,urban,0,0,0,1.2,76
+Beach,20,5,6,1,0,beach,tourist,0,1,0,0.7,100
+Village Area,9,0,4,0,0,rural,rural,0,0,0,1.0,5
+Office Area,20,6,11,1,0,office,urban,0,0,1,1.4,100
+City Area,20,3,2,0,0,urban,urban,0,0,0,1.2,67
+Hill Station,22,5,9,1,0,tourist,tourist,0,0,0,1.0,38
+Mall Area,22,2,5,0,0,mall,urban,0,0,0,1.0,24
+Office Area,13,6,9,1,0,office,urban,0,0,0,1.0,61
+Hill Station,19,1,5,0,0,tourist,tourist,0,0,0,1.0,61
+Mall Area,17,1,5,0,0,mall,urban,1,0,0,1.0,90
+Hill Station,20,0,12,0,0,tourist,tourist,0,0,0,1.4,86
+Office Area,17,6,5,1,0,office,urban,1,0,1,1.0,100
+Beach,11,6,7,1,0,beach,tourist,0,0,0,0.7,46
+Office Area,11,4,11,0,0,office,urban,0,0,1,1.4,90
+Mall Area,11,6,11,1,0,mall,urban,0,0,0,1.4,90
+Market Area,18,3,8,0,0,market,urban,1,0,0,0.7,64
+Beach,19,1,9,0,0,beach,tourist,0,0,0,1.0,77
+Village Area,13,4,2,0,0,rural,rural,0,0,0,1.2,41
+Beach,18,4,7,0,0,beach,tourist,1,0,0,0.7,84
+Hill Station,11,0,3,0,0,tourist,tourist,0,0,0,1.2,50
+Mall Area,11,4,9,0,0,mall,urban,0,0,0,1.0,49
+Office Area,13,6,11,1,0,office,urban,0,0,0,1.4,89
+Market Area,11,4,1,0,0,market,urban,0,0,0,1.2,74
+Beach,22,0,12,0,0,beach,tourist,0,1,0,1.4,54
+Beach,20,0,6,0,0,beach,tourist,0,1,0,0.7,96
+Beach,20,5,6,1,0,beach,tourist,0,1,0,0.7,100
+Mall Area,19,1,11,0,0,mall,urban,0,0,0,1.4,100
+Village Area,15,3,7,0,0,rural,rural,0,0,0,0.7,15
+Mall Area,22,2,10,0,0,mall,urban,0,0,0,1.4,29
+City Area,17,2,9,0,0,urban,urban,1,0,0,1.0,58
+City Area,11,4,7,0,0,urban,urban,0,0,0,0.7,33
+Hill Station,19,3,5,0,0,tourist,tourist,0,0,0,1.0,55
+Hill Station,20,4,11,0,0,tourist,tourist,0,0,0,1.4,79
+Village Area,15,6,4,1,0,rural,rural,0,0,0,1.0,46
+Village Area,13,2,10,0,0,rural,rural,0,0,0,1.4,45
+Hill Station,19,3,4,0,0,tourist,tourist,0,0,0,1.0,62
+Village Area,22,0,3,0,0,rural,rural,0,0,0,1.2,10
+Office Area,11,3,2,0,0,office,urban,0,0,1,1.2,76
+Beach,9,4,10,0,0,beach,tourist,0,0,0,1.4,27
+Hill Station,17,5,7,1,0,tourist,tourist,1,0,0,0.7,82
+Mall Area,17,5,9,1,0,mall,urban,1,0,0,1.0,100
+Beach,19,1,1,0,0,beach,tourist,0,0,0,1.2,90
+Mall Area,11,1,3,0,0,mall,urban,0,0,0,1.2,58
+City Area,13,3,8,0,0,urban,urban,0,0,0,0.7,27
+Village Area,9,4,3,0,0,rural,rural,0,0,0,1.2,8
+City Area,17,1,12,0,0,urban,urban,1,0,0,1.4,80
+Village Area,20,3,10,0,0,rural,rural,0,0,0,1.4,69
+Office Area,15,3,11,0,0,office,urban,0,0,0,1.4,60
+Office Area,22,0,1,0,0,office,urban,0,0,0,1.2,20
+City Area,17,2,10,0,0,urban,urban,1,0,0,1.4,83
+City Area,13,4,10,0,0,urban,urban,0,0,0,1.4,61
+Office Area,22,6,9,1,0,office,urban,0,0,0,1.0,38
+Mall Area,15,0,2,0,0,mall,urban,0,0,0,1.2,50
+Hill Station,15,1,10,0,0,tourist,tourist,0,0,0,1.4,62
+Beach,15,3,9,0,0,beach,tourist,0,0,0,1.0,44
+Office Area,9,5,10,1,0,office,urban,0,0,1,1.4,76
+Hill Station,13,5,1,1,0,tourist,tourist,0,0,0,1.2,81
+Hill Station,9,4,9,0,0,tourist,tourist,0,0,0,1.0,17
+Office Area,17,3,11,0,0,office,urban,1,0,1,1.4,100
+Office Area,20,6,8,1,0,office,urban,0,0,1,0.7,86
+Beach,17,1,6,0,0,beach,tourist,1,0,0,0.7,69
+Mall Area,15,0,12,0,0,mall,urban,0,0,0,1.4,67
+Office Area,18,6,4,1,0,office,urban,1,0,1,1.0,100
+Hill Station,20,1,7,0,0,tourist,tourist,0,0,0,0.7,37
+Mall Area,13,0,1,0,0,mall,urban,0,0,0,1.2,57
+Market Area,15,4,10,0,0,market,urban,0,0,0,1.4,82
+Village Area,20,4,9,0,0,rural,rural,0,0,0,1.0,47
+Hill Station,20,2,2,0,0,tourist,tourist,0,0,0,1.2,73
+Office Area,19,1,10,0,0,office,urban,0,0,1,1.4,100
+City Area,15,5,7,1,0,urban,urban,0,0,0,0.7,44
+Market Area,15,1,6,0,0,market,urban,0,0,0,0.7,49
+Hill Station,20,2,3,0,0,tourist,tourist,0,0,0,1.2,71
+City Area,17,0,6,0,0,urban,urban,1,0,0,0.7,41
+Office Area,9,3,4,0,0,office,urban,0,0,1,1.0,45
+City Area,19,4,10,0,0,urban,urban,0,0,0,1.4,79
+Market Area,13,2,7,0,0,market,urban,0,0,0,0.7,53
+Market Area,17,2,11,0,0,market,urban,1,0,0,1.4,99
+City Area,11,5,8,1,0,urban,urban,0,0,0,0.7,45
+Market Area,11,4,9,0,0,market,urban,0,0,0,1.0,60
+Hill Station,18,2,10,0,0,tourist,tourist,1,0,0,1.4,100
+City Area,19,3,6,0,0,urban,urban,0,0,0,0.7,46
+Office Area,13,5,7,1,0,office,urban,0,0,0,0.7,48
+Office Area,17,5,4,1,0,office,urban,1,0,1,1.0,100
+Market Area,18,6,6,1,0,market,urban,1,0,0,0.7,74
+Village Area,18,2,8,0,0,rural,rural,1,0,0,0.7,22
+City Area,9,6,4,1,0,urban,urban,0,0,0,1.0,39
+Market Area,18,4,9,0,0,market,urban,1,0,0,1.0,81
+City Area,15,6,3,1,0,urban,urban,0,0,0,1.2,80
+Market Area,9,0,12,0,0,market,urban,0,0,0,1.4,44
+Office Area,17,4,1,0,0,office,urban,1,0,1,1.2,100
+Mall Area,13,3,2,0,0,mall,urban,0,0,0,1.2,55
+Market Area,17,5,6,1,0,market,urban,1,0,0,0.7,81
+Market Area,15,5,8,1,0,market,urban,0,0,0,0.7,66
+Hill Station,11,0,6,0,0,tourist,tourist,0,0,0,0.7,33
+Office Area,11,6,2,1,0,office,urban,0,0,1,1.2,100
+Hill Station,15,5,1,1,0,tourist,tourist,0,0,0,1.2,83
+Beach,17,2,8,0,0,beach,tourist,1,0,0,0.7,67
+Village Area,13,3,3,0,0,rural,rural,0,0,0,1.2,39
+Village Area,20,0,2,0,0,rural,rural,0,0,0,1.2,61
+Village Area,13,2,11,0,0,rural,rural,0,0,0,1.4,49
+City Area,22,3,9,0,0,urban,urban,0,0,0,1.0,23
+Hill Station,18,5,12,1,0,tourist,tourist,1,0,0,1.4,100
+Beach,17,6,1,1,0,beach,tourist,1,0,0,1.2,100
+Hill Station,13,0,9,0,0,tourist,tourist,0,0,0,1.0,44
+City Area,19,1,11,0,0,urban,urban,0,0,0,1.4,87
+Office Area,15,1,12,0,0,office,urban,0,0,0,1.4,58
+Office Area,19,5,10,1,0,office,urban,0,0,1,1.4,100
+Mall Area,13,5,4,1,0,mall,urban,0,0,0,1.0,66
+Village Area,22,0,2,0,0,rural,rural,0,0,0,1.2,10
+Market Area,17,0,12,0,0,market,urban,1,0,0,1.4,100
+Hill Station,9,3,10,0,0,tourist,tourist,0,0,0,1.4,29
+Village Area,17,3,1,0,0,rural,rural,1,0,0,1.2,57
+Hill Station,20,0,6,0,0,tourist,tourist,0,0,0,0.7,41
+Market Area,13,1,1,0,0,market,urban,0,0,0,1.2,71
+Office Area,11,5,3,1,0,office,urban,0,0,1,1.2,100
+City Area,19,2,12,0,0,urban,urban,0,0,0,1.4,88
+Mall Area,22,2,9,0,0,mall,urban,0,0,0,1.0,25
+Hill Station,18,1,8,0,0,tourist,tourist,1,0,0,0.7,70
+Mall Area,22,1,6,0,0,mall,urban,0,0,0,0.7,18
+Market Area,13,1,11,0,0,market,urban,0,0,0,1.4,79
+Village Area,15,6,1,1,0,rural,rural,0,0,0,1.2,63
+Hill Station,18,2,11,0,0,tourist,tourist,1,0,0,1.4,100
+Market Area,15,5,12,1,0,market,urban,0,0,0,1.4,100
+Market Area,18,6,7,1,0,market,urban,1,0,0,0.7,77
+Mall Area,20,5,10,1,0,mall,urban,0,0,0,1.4,100
+City Area,18,5,5,1,0,urban,urban,1,0,0,1.0,81
+Beach,9,3,12,0,0,beach,tourist,0,0,0,1.4,27
+Village Area,17,0,9,0,0,rural,rural,1,0,0,1.0,47
+Market Area,13,6,1,1,0,market,urban,0,0,0,1.2,94
+City Area,17,0,1,0,0,urban,urban,1,0,0,1.2,71
+City Area,13,1,6,0,0,urban,urban,0,0,0,0.7,33
+Market Area,19,2,12,0,0,market,urban,0,0,0,1.4,100
+Mall Area,20,0,12,0,0,mall,urban,0,0,0,1.4,100
+Beach,19,6,7,1,0,beach,tourist,0,0,0,0.7,74
+Beach,20,5,3,1,0,beach,tourist,0,1,0,1.2,100
+Office Area,15,5,1,1,0,office,urban,0,0,0,1.2,78
+Market Area,13,4,4,0,0,market,urban,0,0,0,1.0,65
+Beach,20,0,1,0,0,beach,tourist,0,1,0,1.2,100
+Office Area,18,1,7,0,0,office,urban,1,0,1,0.7,77
+Hill Station,17,3,8,0,0,tourist,tourist,1,0,0,0.7,76
+Hill Station,19,3,5,0,0,tourist,tourist,0,0,0,1.0,58
+Village Area,9,6,2,1,0,rural,rural,0,0,0,1.2,35
+City Area,11,4,5,0,0,urban,urban,0,0,0,1.0,43
+Office Area,22,3,4,0,0,office,urban,0,0,0,1.0,22
+Office Area,15,4,9,0,0,office,urban,0,0,0,1.0,47
+Hill Station,17,0,6,0,0,tourist,tourist,1,0,0,0.7,73
+City Area,18,6,11,1,0,urban,urban,1,0,0,1.4,100
+Mall Area,11,1,10,0,0,mall,urban,0,0,0,1.4,58
+Beach,13,1,1,0,0,beach,tourist,0,0,0,1.2,55
+Beach,19,4,4,0,0,beach,tourist,0,0,0,1.0,80
+Office Area,9,4,1,0,0,office,urban,0,0,1,1.2,47
+Office Area,22,5,4,1,0,office,urban,0,0,0,1.0,35
+Hill Station,13,3,10,0,0,tourist,tourist,0,0,0,1.4,57
+Market Area,17,4,5,0,0,market,urban,1,0,0,1.0,80
+Mall Area,11,3,11,0,0,mall,urban,0,0,0,1.4,61
+Hill Station,20,1,7,0,0,tourist,tourist,0,0,0,0.7,45
+Village Area,9,1,1,0,0,rural,rural,0,0,0,1.2,11
+Mall Area,13,2,3,0,0,mall,urban,0,0,0,1.2,53
+Mall Area,22,4,7,0,0,mall,urban,0,0,0,0.7,17
+Mall Area,15,2,10,0,0,mall,urban,0,0,0,1.4,60
+Mall Area,22,1,4,0,0,mall,urban,0,0,0,1.0,18
+Mall Area,9,2,5,0,0,mall,urban,0,0,0,1.0,22
+Mall Area,19,0,3,0,0,mall,urban,0,0,0,1.2,100
+Market Area,20,2,2,0,0,market,urban,0,0,0,1.2,94
+Beach,9,4,6,0,0,beach,tourist,0,0,0,0.7,19
+Mall Area,19,5,2,1,0,mall,urban,0,0,0,1.2,100
+Market Area,22,0,1,0,0,market,urban,0,0,0,1.2,49
+Office Area,19,4,11,0,0,office,urban,0,0,1,1.4,100
+City Area,9,3,12,0,0,urban,urban,0,0,0,1.4,27
+Hill Station,15,1,11,0,0,tourist,tourist,0,0,0,1.4,57
+Office Area,17,5,12,1,0,office,urban,1,0,1,1.4,100
+City Area,18,1,5,0,0,urban,urban,1,0,0,1.0,55
+Village Area,20,1,11,0,0,rural,rural,0,0,0,1.4,71
+City Area,15,1,7,0,0,urban,urban,0,0,0,0.7,27
+Mall Area,19,0,7,0,0,mall,urban,0,0,0,0.7,82
+Mall Area,22,0,5,0,0,mall,urban,0,0,0,1.0,17
+Office Area,19,0,12,0,0,office,urban,0,0,1,1.4,100
+Village Area,19,0,5,0,0,rural,rural,0,0,0,1.0,42
+Mall Area,18,0,10,0,0,mall,urban,1,0,0,1.4,100
+City Area,17,6,4,1,0,urban,urban,1,0,0,1.0,75
+Mall Area,13,3,4,0,0,mall,urban,0,0,0,1.0,48
+Mall Area,9,6,4,1,0,mall,urban,0,0,0,1.0,37
+Beach,19,1,2,0,0,beach,tourist,0,0,0,1.2,93
+Hill Station,17,3,12,0,0,tourist,tourist,1,0,0,1.4,100
+Beach,13,5,12,1,0,beach,tourist,0,0,0,1.4,87
+Mall Area,11,5,5,1,0,mall,urban,0,0,0,1.0,68
+Mall Area,22,5,8,1,0,mall,urban,0,0,0,0.7,33
+Office Area,15,4,3,0,0,office,urban,0,0,0,1.2,57
+Mall Area,15,2,11,0,0,mall,urban,0,0,0,1.4,60
+Beach,18,2,9,0,0,beach,tourist,1,0,0,1.0,100
+City Area,17,2,7,0,0,urban,urban,1,0,0,0.7,40
+Mall Area,15,6,8,1,0,mall,urban,0,0,0,0.7,42
+Hill Station,13,6,9,1,0,tourist,tourist,0,0,0,1.0,69
+Hill Station,9,3,6,0,0,tourist,tourist,0,0,0,0.7,18
+City Area,9,6,8,1,0,urban,urban,0,0,0,0.7,27
+Village Area,11,6,1,1,0,rural,rural,0,0,0,1.2,61
+Mall Area,15,2,11,0,0,mall,urban,0,0,0,1.4,61
+Hill Station,11,3,11,0,0,tourist,tourist,0,0,0,1.4,61
+Beach,11,5,12,1,0,beach,tourist,0,0,0,1.4,92
+Beach,18,5,11,1,0,beach,tourist,1,0,0,1.4,100
+Hill Station,9,1,2,0,0,tourist,tourist,0,0,0,1.2,25
+Mall Area,17,6,12,1,0,mall,urban,1,0,0,1.4,100
+Office Area,19,0,3,0,0,office,urban,0,0,1,1.2,100
+Village Area,11,1,7,0,0,rural,rural,0,0,0,0.7,11
+City Area,15,2,10,0,0,urban,urban,0,0,0,1.4,66
+Mall Area,11,1,9,0,0,mall,urban,0,0,0,1.0,44
+Market Area,17,4,9,0,0,market,urban,1,0,0,1.0,78
+Village Area,17,3,4,0,0,rural,rural,1,0,0,1.0,46
+Beach,13,4,12,0,0,beach,tourist,0,0,0,1.4,59
+Village Area,9,3,9,0,0,rural,rural,0,0,0,1.0,5
+Hill Station,17,0,7,0,0,tourist,tourist,1,0,0,0.7,67
+City Area,19,5,8,1,0,urban,urban,0,0,0,0.7,54
+Beach,13,5,12,1,0,beach,tourist,0,0,0,1.4,89
+Beach,15,2,6,0,0,beach,tourist,0,0,0,0.7,33
+Hill Station,20,6,12,1,0,tourist,tourist,0,0,0,1.4,100
+Beach,11,5,11,1,0,beach,tourist,0,0,0,1.4,93
+Mall Area,22,4,2,0,0,mall,urban,0,0,0,1.2,19
+Village Area,11,6,5,1,0,rural,rural,0,0,0,1.0,51
+Hill Station,20,6,9,1,0,tourist,tourist,0,0,0,1.0,82
+Beach,22,2,11,0,0,beach,tourist,0,1,0,1.4,59
+Hill Station,18,5,8,1,0,tourist,tourist,1,0,0,0.7,90
+Hill Station,13,6,8,1,0,tourist,tourist,0,0,0,0.7,40
+Office Area,9,3,6,0,0,office,urban,0,0,1,0.7,42
+Office Area,15,1,9,0,0,office,urban,0,0,0,1.0,49
+Market Area,22,6,4,1,0,market,urban,0,0,0,1.0,59
+Village Area,18,3,12,0,0,rural,rural,1,0,0,1.4,68
+Office Area,11,5,12,1,0,office,urban,0,0,1,1.4,100
+Market Area,13,6,9,1,0,market,urban,0,0,0,1.0,83
+Hill Station,15,5,2,1,0,tourist,tourist,0,0,0,1.2,76
+Market Area,18,2,7,0,0,market,urban,1,0,0,0.7,61
+Village Area,17,6,7,1,0,rural,rural,1,0,0,0.7,40
+Office Area,19,1,4,0,0,office,urban,0,0,1,1.0,86
+Market Area,20,3,7,0,0,market,urban,0,0,0,0.7,67
+Village Area,15,2,6,0,0,rural,rural,0,0,0,0.7,18
+Hill Station,20,0,6,0,0,tourist,tourist,0,0,0,0.7,42
+Mall Area,19,3,12,0,0,mall,urban,0,0,0,1.4,100
+Village Area,22,0,9,0,0,rural,rural,0,0,0,1.0,9
+City Area,18,5,4,1,0,urban,urban,1,0,0,1.0,78
+Mall Area,15,5,6,1,0,mall,urban,0,0,0,0.7,41
+Mall Area,18,6,4,1,0,mall,urban,1,0,0,1.0,100
+City Area,20,5,7,1,0,urban,urban,0,0,0,0.7,52
+Beach,17,0,11,0,0,beach,tourist,1,0,0,1.4,100
+Mall Area,11,1,1,0,0,mall,urban,0,0,0,1.2,50
+Hill Station,11,4,7,0,0,tourist,tourist,0,0,0,0.7,28
+City Area,17,3,5,0,0,urban,urban,1,0,0,1.0,56
+Beach,11,5,5,1,0,beach,tourist,0,0,0,1.0,62
+Hill Station,15,2,8,0,0,tourist,tourist,0,0,0,0.7,34
+Village Area,18,1,8,0,0,rural,rural,1,0,0,0.7,32
+Beach,11,2,10,0,0,beach,tourist,0,0,0,1.4,60
+Market Area,13,3,3,0,0,market,urban,0,0,0,1.2,78
+Mall Area,20,2,5,0,0,mall,urban,0,0,0,1.0,100
+Office Area,22,1,9,0,0,office,urban,0,0,0,1.0,22
+Market Area,11,5,2,1,0,market,urban,0,0,0,1.2,95
+Mall Area,11,5,4,1,0,mall,urban,0,0,0,1.0,60
+Market Area,18,1,8,0,0,market,urban,1,0,0,0.7,59
+Market Area,18,2,5,0,0,market,urban,1,0,0,1.0,79
+Market Area,15,1,9,0,0,market,urban,0,0,0,1.0,69
+Beach,20,6,9,1,0,beach,tourist,0,1,0,1.0,100
+Village Area,19,1,7,0,0,rural,rural,0,0,0,0.7,29
+Market Area,18,2,12,0,0,market,urban,1,0,0,1.4,100
+Village Area,11,2,12,0,0,rural,rural,0,0,0,1.4,44
+Market Area,9,6,12,1,0,market,urban,0,0,0,1.4,79
+Market Area,11,3,12,0,0,market,urban,0,0,0,1.4,88
+Hill Station,9,2,5,0,0,tourist,tourist,0,0,0,1.0,18
+Beach,19,4,6,0,0,beach,tourist,0,0,0,0.7,57
+Hill Station,13,3,4,0,0,tourist,tourist,0,0,0,1.0,47
+Village Area,19,1,8,0,0,rural,rural,0,0,0,0.7,30
+Beach,18,3,9,0,0,beach,tourist,1,0,0,1.0,100
+City Area,22,3,7,0,0,urban,urban,0,0,0,0.7,15
+Beach,13,4,9,0,0,beach,tourist,0,0,0,1.0,40
+Market Area,13,6,5,1,0,market,urban,0,0,0,1.0,84
+Beach,9,5,1,1,0,beach,tourist,0,0,0,1.2,51
+Beach,19,4,10,0,0,beach,tourist,0,0,0,1.4,100
+Mall Area,17,4,4,0,0,mall,urban,1,0,0,1.0,92
+City Area,20,0,1,0,0,urban,urban,0,0,0,1.2,74
+Village Area,18,6,2,1,0,rural,rural,1,0,0,1.2,76
+Village Area,19,6,2,1,0,rural,rural,0,0,0,1.2,80
+Market Area,9,0,11,0,0,market,urban,0,0,0,1.4,49
+Beach,18,6,2,1,0,beach,tourist,1,0,0,1.2,100
+Hill Station,11,0,3,0,0,tourist,tourist,0,0,0,1.2,50
+Village Area,20,5,9,1,0,rural,rural,0,0,0,1.0,70
+Beach,18,4,3,0,0,beach,tourist,1,0,0,1.2,100
+Hill Station,22,2,7,0,0,tourist,tourist,0,0,0,0.7,11
+Market Area,13,3,4,0,0,market,urban,0,0,0,1.0,65
+City Area,22,4,9,0,0,urban,urban,0,0,0,1.0,17
+Market Area,22,1,9,0,0,market,urban,0,0,0,1.0,39
+Beach,18,2,3,0,0,beach,tourist,1,0,0,1.2,100
+Beach,9,5,6,1,0,beach,tourist,0,0,0,0.7,23
+City Area,9,5,10,1,0,urban,urban,0,0,0,1.4,61
+Mall Area,20,6,4,1,0,mall,urban,0,0,0,1.0,100
+City Area,19,1,12,0,0,urban,urban,0,0,0,1.4,79
+City Area,19,6,1,1,0,urban,urban,0,0,0,1.2,93
+Hill Station,15,1,3,0,0,tourist,tourist,0,0,0,1.2,50
+City Area,18,2,2,0,0,urban,urban,1,0,0,1.2,71
+City Area,19,2,1,0,0,urban,urban,0,0,0,1.2,77
+Office Area,19,1,12,0,0,office,urban,0,0,1,1.4,100
+Office Area,9,3,1,0,0,office,urban,0,0,1,1.2,46
+Mall Area,11,5,6,1,0,mall,urban,0,0,0,0.7,48
+Hill Station,18,3,9,0,0,tourist,tourist,1,0,0,1.0,85
+City Area,22,1,6,0,0,urban,urban,0,0,0,0.7,13
+Office Area,9,5,4,1,0,office,urban,0,0,1,1.0,64
+Beach,20,3,10,0,0,beach,tourist,0,1,0,1.4,100
+Office Area,11,6,11,1,0,office,urban,0,0,1,1.4,100
+Village Area,17,4,4,0,0,rural,rural,1,0,0,1.0,46
+City Area,20,5,10,1,0,urban,urban,0,0,0,1.4,100
+Office Area,18,2,10,0,0,office,urban,1,0,1,1.4,100
+Office Area,13,5,2,1,0,office,urban,0,0,0,1.2,83
+City Area,9,0,1,0,0,urban,urban,0,0,0,1.2,27
+Office Area,19,3,2,0,0,office,urban,0,0,1,1.2,98
+City Area,19,5,12,1,0,urban,urban,0,0,0,1.4,100
+Office Area,20,6,12,1,0,office,urban,0,0,1,1.4,100
+Market Area,20,3,11,0,0,market,urban,0,0,0,1.4,100
+City Area,11,6,5,1,0,urban,urban,0,0,0,1.0,67
+Village Area,17,2,1,0,0,rural,rural,1,0,0,1.2,56
+Village Area,22,6,6,1,0,rural,rural,0,0,0,0.7,18
+Mall Area,19,1,6,0,0,mall,urban,0,0,0,0.7,78
+Mall Area,11,4,8,0,0,mall,urban,0,0,0,0.7,32
+Village Area,11,3,4,0,0,rural,rural,0,0,0,1.0,32
+Village Area,22,2,3,0,0,rural,rural,0,0,0,1.2,10
+Office Area,22,1,9,0,0,office,urban,0,0,0,1.0,16
+Office Area,22,5,2,1,0,office,urban,0,0,0,1.2,50
+Mall Area,17,4,12,0,0,mall,urban,1,0,0,1.4,100
+Market Area,11,0,7,0,0,market,urban,0,0,0,0.7,51
+City Area,11,0,9,0,0,urban,urban,0,0,0,1.0,41
+Market Area,22,1,9,0,0,market,urban,0,0,0,1.0,44
+Village Area,13,4,7,0,0,rural,rural,0,0,0,0.7,17
+City Area,9,5,6,1,0,urban,urban,0,0,0,0.7,29
+Market Area,17,6,7,1,0,market,urban,1,0,0,0.7,77
+Village Area,20,4,11,0,0,rural,rural,0,0,0,1.4,69
+Beach,15,4,4,0,0,beach,tourist,0,0,0,1.0,42
+Office Area,15,2,6,0,0,office,urban,0,0,0,0.7,33
+Mall Area,11,3,3,0,0,mall,urban,0,0,0,1.2,52
+Market Area,15,6,4,1,0,market,urban,0,0,0,1.0,82
+Beach,15,4,12,0,0,beach,tourist,0,0,0,1.4,62
+Mall Area,11,2,11,0,0,mall,urban,0,0,0,1.4,61
+Mall Area,20,3,3,0,0,mall,urban,0,0,0,1.2,100
+Mall Area,11,0,5,0,0,mall,urban,0,0,0,1.0,44
+Beach,19,0,8,0,0,beach,tourist,0,0,0,0.7,67
+City Area,18,0,2,0,0,urban,urban,1,0,0,1.2,70
+Village Area,19,2,12,0,0,rural,rural,0,0,0,1.4,68
+Hill Station,13,2,6,0,0,tourist,tourist,0,0,0,0.7,34
+Market Area,11,5,2,1,0,market,urban,0,0,0,1.2,100
+Mall Area,22,1,7,0,0,mall,urban,0,0,0,0.7,17
+City Area,19,1,5,0,0,urban,urban,0,0,0,1.0,59
+Hill Station,18,1,7,0,0,tourist,tourist,1,0,0,0.7,72
+Office Area,20,1,3,0,0,office,urban,0,0,1,1.2,100
+Market Area,13,1,2,0,0,market,urban,0,0,0,1.2,74
+Hill Station,19,3,4,0,0,tourist,tourist,0,0,0,1.0,65
+Mall Area,19,0,5,0,0,mall,urban,0,0,0,1.0,90
+Beach,18,6,6,1,0,beach,tourist,1,0,0,0.7,96
+Hill Station,15,5,5,1,0,tourist,tourist,0,0,0,1.0,68
+Hill Station,15,4,3,0,0,tourist,tourist,0,0,0,1.2,50
+City Area,22,1,10,0,0,urban,urban,0,0,0,1.4,27
+Office Area,18,0,9,0,0,office,urban,1,0,1,1.0,86
+Market Area,11,6,10,1,0,market,urban,0,0,0,1.4,100
+Market Area,18,5,2,1,0,market,urban,1,0,0,1.2,100
+City Area,17,5,7,1,0,urban,urban,1,0,0,0.7,52
+Beach,18,0,9,0,0,beach,tourist,1,0,0,1.0,100
+Village Area,18,5,10,1,0,rural,rural,1,0,0,1.4,96
+Beach,19,5,10,1,0,beach,tourist,0,0,0,1.4,100
+Office Area,11,0,10,0,0,office,urban,0,0,1,1.4,90
+Beach,15,5,4,1,0,beach,tourist,0,0,0,1.0,70
+Market Area,11,1,3,0,0,market,urban,0,0,0,1.2,75
+Beach,13,2,12,0,0,beach,tourist,0,0,0,1.4,61
+Hill Station,22,4,9,0,0,tourist,tourist,0,0,0,1.0,17
+Hill Station,22,6,10,1,0,tourist,tourist,0,0,0,1.4,58
+Office Area,19,5,5,1,0,office,urban,0,0,1,1.0,100
+Hill Station,22,2,11,0,0,tourist,tourist,0,0,0,1.4,25
+Beach,17,0,11,0,0,beach,tourist,1,0,0,1.4,100
+Village Area,17,5,8,1,0,rural,rural,1,0,0,0.7,46
+Mall Area,19,2,9,0,0,mall,urban,0,0,0,1.0,94
+Village Area,15,1,8,0,0,rural,rural,0,0,0,0.7,18
+Office Area,11,1,1,0,0,office,urban,0,0,1,1.2,79
+Office Area,18,2,9,0,0,office,urban,1,0,1,1.0,95
+Office Area,11,5,10,1,0,office,urban,0,0,1,1.4,100
+Beach,9,2,7,0,0,beach,tourist,0,0,0,0.7,18
+Office Area,9,2,12,0,0,office,urban,0,0,1,1.4,50
+Hill Station,22,2,12,0,0,tourist,tourist,0,0,0,1.4,26
+Office Area,19,1,7,0,0,office,urban,0,0,1,0.7,74
+Mall Area,15,0,5,0,0,mall,urban,0,0,0,1.0,45
+Office Area,17,6,1,1,0,office,urban,1,0,1,1.2,100
+Hill Station,17,6,4,1,0,tourist,tourist,1,0,0,1.0,100
+City Area,17,3,8,0,0,urban,urban,1,0,0,0.7,44
+City Area,11,6,6,1,0,urban,urban,0,0,0,0.7,48
+Mall Area,9,2,9,0,0,mall,urban,0,0,0,1.0,25
+Mall Area,9,6,7,1,0,mall,urban,0,0,0,0.7,26
+City Area,19,4,5,0,0,urban,urban,0,0,0,1.0,56
+Office Area,9,1,6,0,0,office,urban,0,0,1,0.7,42
+Mall Area,18,3,4,0,0,mall,urban,1,0,0,1.0,96
+Market Area,11,2,1,0,0,market,urban,0,0,0,1.2,69
+City Area,17,1,4,0,0,urban,urban,1,0,0,1.0,55
+Mall Area,15,0,7,0,0,mall,urban,0,0,0,0.7,27
+Hill Station,15,2,2,0,0,tourist,tourist,0,0,0,1.2,53
+Market Area,15,4,11,0,0,market,urban,0,0,0,1.4,79
+Beach,22,5,11,1,0,beach,tourist,0,1,0,1.4,86
+Office Area,17,4,10,0,0,office,urban,1,0,1,1.4,100
+Office Area,18,3,12,0,0,office,urban,1,0,1,1.4,100
+City Area,19,5,4,1,0,urban,urban,0,0,0,1.0,75
+Mall Area,13,0,6,0,0,mall,urban,0,0,0,0.7,35
+Mall Area,20,0,12,0,0,mall,urban,0,0,0,1.4,100
+Village Area,15,3,11,0,0,rural,rural,0,0,0,1.4,42
+Mall Area,18,5,1,1,0,mall,urban,1,0,0,1.2,100
+Beach,22,1,3,0,0,beach,tourist,0,1,0,1.2,58
+Hill Station,19,5,3,1,0,tourist,tourist,0,0,0,1.2,100
+Village Area,18,2,4,0,0,rural,rural,1,0,0,1.0,46
+Mall Area,20,0,8,0,0,mall,urban,0,0,0,0.7,80
+Office Area,19,6,12,1,0,office,urban,0,0,1,1.4,100
+Hill Station,19,0,12,0,0,tourist,tourist,0,0,0,1.4,84
+City Area,18,6,8,1,0,urban,urban,1,0,0,0.7,54
+Mall Area,13,1,3,0,0,mall,urban,0,0,0,1.2,54
+Office Area,13,6,5,1,0,office,urban,0,0,0,1.0,60
+City Area,17,3,9,0,0,urban,urban,1,0,0,1.0,62
+Beach,15,0,7,0,0,beach,tourist,0,0,0,0.7,29
+Hill Station,18,5,6,1,0,tourist,tourist,1,0,0,0.7,89
+Office Area,18,2,12,0,0,office,urban,1,0,1,1.4,100
+Hill Station,20,3,5,0,0,tourist,tourist,0,0,0,1.0,62
+Hill Station,20,5,3,1,0,tourist,tourist,0,0,0,1.2,96
+Hill Station,18,0,7,0,0,tourist,tourist,1,0,0,0.7,72
+Village Area,19,1,4,0,0,rural,rural,0,0,0,1.0,50
+City Area,13,2,9,0,0,urban,urban,0,0,0,1.0,44
+Hill Station,19,5,8,1,0,tourist,tourist,0,0,0,0.7,51
+Beach,17,6,2,1,0,beach,tourist,1,0,0,1.2,100
+Beach,9,2,8,0,0,beach,tourist,0,0,0,0.7,16
+Hill Station,20,2,10,0,0,tourist,tourist,0,0,0,1.4,88
+Market Area,19,4,6,0,0,market,urban,0,0,0,0.7,61
+Hill Station,19,3,5,0,0,tourist,tourist,0,0,0,1.0,64
+Market Area,19,4,11,0,0,market,urban,0,0,0,1.4,100
+City Area,15,3,11,0,0,urban,urban,0,0,0,1.4,63
+Village Area,9,6,6,1,0,rural,rural,0,0,0,0.7,14
+Mall Area,18,1,11,0,0,mall,urban,1,0,0,1.4,100
+Village Area,9,0,4,0,0,rural,rural,0,0,0,1.0,7
+Market Area,15,3,2,0,0,market,urban,0,0,0,1.2,72
+Beach,9,4,6,0,0,beach,tourist,0,0,0,0.7,16
+City Area,22,6,1,1,0,urban,urban,0,0,0,1.2,47
+Village Area,11,1,1,0,0,rural,rural,0,0,0,1.2,36
+Village Area,20,2,5,0,0,rural,rural,0,0,0,1.0,40
+Hill Station,15,6,9,1,0,tourist,tourist,0,0,0,1.0,69
+Market Area,9,4,3,0,0,market,urban,0,0,0,1.2,41
+Office Area,13,0,1,0,0,office,urban,0,0,0,1.2,51
+Hill Station,15,6,7,1,0,tourist,tourist,0,0,0,0.7,40
+Village Area,13,2,2,0,0,rural,rural,0,0,0,1.2,36
+Mall Area,18,4,8,0,0,mall,urban,1,0,0,0.7,78
+Office Area,13,5,12,1,0,office,urban,0,0,0,1.4,92
+Market Area,22,5,12,1,0,market,urban,0,0,0,1.4,81
+Hill Station,22,6,3,1,0,tourist,tourist,0,0,0,1.2,51
+Hill Station,15,5,7,1,0,tourist,tourist,0,0,0,0.7,41
+Mall Area,17,5,9,1,0,mall,urban,1,0,0,1.0,100
+City Area,17,5,7,1,0,urban,urban,1,0,0,0.7,51
+Market Area,11,1,10,0,0,market,urban,0,0,0,1.4,83
+Market Area,9,4,4,0,0,market,urban,0,0,0,1.0,45
+City Area,13,5,9,1,0,urban,urban,0,0,0,1.0,60
+Village Area,15,2,3,0,0,rural,rural,0,0,0,1.2,38
+Hill Station,20,3,2,0,0,tourist,tourist,0,0,0,1.2,68
+Hill Station,22,1,8,0,0,tourist,tourist,0,0,0,0.7,14
+Market Area,22,6,6,1,0,market,urban,0,0,0,0.7,46
+Office Area,22,5,4,1,0,office,urban,0,0,0,1.0,36
+Hill Station,9,0,4,0,0,tourist,tourist,0,0,0,1.0,25
+Office Area,9,6,11,1,0,office,urban,0,0,1,1.4,86
+Village Area,17,0,4,0,0,rural,rural,1,0,0,1.0,47
+Market Area,17,6,6,1,0,market,urban,1,0,0,0.7,77
+Hill Station,20,0,9,0,0,tourist,tourist,0,0,0,1.0,57
+Beach,11,5,3,1,0,beach,tourist,0,0,0,1.2,77
+Market Area,17,3,2,0,0,market,urban,1,0,0,1.2,92
+Hill Station,22,4,11,0,0,tourist,tourist,0,0,0,1.4,32
+City Area,19,4,5,0,0,urban,urban,0,0,0,1.0,64
+Beach,20,4,5,0,0,beach,tourist,0,1,0,1.0,100
+City Area,20,3,9,0,0,urban,urban,0,0,0,1.0,65
+Hill Station,15,6,11,1,0,tourist,tourist,0,0,0,1.4,91
+Office Area,13,1,10,0,0,office,urban,0,0,0,1.4,65
+Hill Station,20,3,9,0,0,tourist,tourist,0,0,0,1.0,60
+Market Area,15,3,7,0,0,market,urban,0,0,0,0.7,55
+Hill Station,19,5,11,1,0,tourist,tourist,0,0,0,1.4,100
+Village Area,11,1,4,0,0,rural,rural,0,0,0,1.0,27
+Office Area,19,0,5,0,0,office,urban,0,0,1,1.0,86
+City Area,17,1,5,0,0,urban,urban,1,0,0,1.0,59
+Office Area,13,0,10,0,0,office,urban,0,0,0,1.4,68
+Mall Area,20,0,12,0,0,mall,urban,0,0,0,1.4,100
+Mall Area,11,4,12,0,0,mall,urban,0,0,0,1.4,61
+Market Area,11,3,12,0,0,market,urban,0,0,0,1.4,82
+Office Area,11,2,1,0,0,office,urban,0,0,1,1.2,80
+Village Area,9,3,2,0,0,rural,rural,0,0,0,1.2,6
+Hill Station,9,5,9,1,0,tourist,tourist,0,0,0,1.0,44
+City Area,11,2,10,0,0,urban,urban,0,0,0,1.4,60
+Office Area,13,3,7,0,0,office,urban,0,0,0,0.7,29
+Mall Area,22,0,9,0,0,mall,urban,0,0,0,1.0,23
+Office Area,20,3,10,0,0,office,urban,0,0,1,1.4,100
+Hill Station,13,1,11,0,0,tourist,tourist,0,0,0,1.4,62
+Mall Area,17,0,1,0,0,mall,urban,1,0,0,1.2,100
+Mall Area,11,1,5,0,0,mall,urban,0,0,0,1.0,41
+Hill Station,20,5,1,1,0,tourist,tourist,0,0,0,1.2,95
+City Area,22,2,9,0,0,urban,urban,0,0,0,1.0,19
+Office Area,9,0,5,0,0,office,urban,0,0,1,1.0,44
+City Area,15,2,11,0,0,urban,urban,0,0,0,1.4,60
+Mall Area,13,0,2,0,0,mall,urban,0,0,0,1.2,54
+City Area,13,4,10,0,0,urban,urban,0,0,0,1.4,61
+City Area,17,5,11,1,0,urban,urban,1,0,0,1.4,100
+Mall Area,19,2,3,0,0,mall,urban,0,0,0,1.2,100
+Office Area,11,3,10,0,0,office,urban,0,0,1,1.4,91
+City Area,15,4,10,0,0,urban,urban,0,0,0,1.4,59
+Office Area,18,3,4,0,0,office,urban,1,0,1,1.0,85
+Beach,22,6,9,1,0,beach,tourist,0,1,0,1.0,65
+Office Area,11,6,2,1,0,office,urban,0,0,1,1.2,100
+Hill Station,13,0,1,0,0,tourist,tourist,0,0,0,1.2,53
+Mall Area,9,0,4,0,0,mall,urban,0,0,0,1.0,17
+Hill Station,15,6,11,1,0,tourist,tourist,0,0,0,1.4,91
+Village Area,19,5,3,1,0,rural,rural,0,0,0,1.2,85
+Hill Station,22,5,5,1,0,tourist,tourist,0,0,0,1.0,41
+City Area,19,6,6,1,0,urban,urban,0,0,0,0.7,60
+Village Area,15,2,5,0,0,rural,rural,0,0,0,1.0,35
+City Area,17,1,9,0,0,urban,urban,1,0,0,1.0,56
+City Area,13,3,2,0,0,urban,urban,0,0,0,1.2,58
+Hill Station,13,1,9,0,0,tourist,tourist,0,0,0,1.0,46
+Village Area,13,2,5,0,0,rural,rural,0,0,0,1.0,31
+Market Area,13,6,11,1,0,market,urban,0,0,0,1.4,100
+Beach,22,6,6,1,0,beach,tourist,0,1,0,0.7,63
+Mall Area,11,2,6,0,0,mall,urban,0,0,0,0.7,28
+Market Area,19,5,11,1,0,market,urban,0,0,0,1.4,100
+City Area,17,6,3,1,0,urban,urban,1,0,0,1.2,100
+Mall Area,19,6,11,1,0,mall,urban,0,0,0,1.4,100
+Office Area,20,2,2,0,0,office,urban,0,0,1,1.2,100
+City Area,11,5,7,1,0,urban,urban,0,0,0,0.7,42
+Mall Area,22,2,10,0,0,mall,urban,0,0,0,1.4,30
+Village Area,11,1,8,0,0,rural,rural,0,0,0,0.7,16
+Market Area,22,1,5,0,0,market,urban,0,0,0,1.0,41
+Village Area,17,6,6,1,0,rural,rural,1,0,0,0.7,44
+Village Area,13,1,6,0,0,rural,rural,0,0,0,0.7,17
+Hill Station,15,3,2,0,0,tourist,tourist,0,0,0,1.2,56
+Market Area,18,0,5,0,0,market,urban,1,0,0,1.0,76
+Office Area,18,3,11,0,0,office,urban,1,0,1,1.4,100
+City Area,17,2,5,0,0,urban,urban,1,0,0,1.0,59
+Mall Area,22,0,10,0,0,mall,urban,0,0,0,1.4,31
+Mall Area,15,5,8,1,0,mall,urban,0,0,0,0.7,45
+Office Area,18,3,4,0,0,office,urban,1,0,1,1.0,93
+Beach,15,6,10,1,0,beach,tourist,0,0,0,1.4,96
+Hill Station,17,5,8,1,0,tourist,tourist,1,0,0,0.7,88
+Mall Area,17,4,9,0,0,mall,urban,1,0,0,1.0,93
+Beach,22,2,3,0,0,beach,tourist,0,1,0,1.2,59
+Village Area,11,0,11,0,0,rural,rural,0,0,0,1.4,51
+Office Area,11,4,12,0,0,office,urban,0,0,1,1.4,85
+City Area,19,4,6,0,0,urban,urban,0,0,0,0.7,46
+Beach,18,4,12,0,0,beach,tourist,1,0,0,1.4,100
+City Area,19,2,1,0,0,urban,urban,0,0,0,1.2,71
+Mall Area,15,5,12,1,0,mall,urban,0,0,0,1.4,86
+Market Area,17,3,3,0,0,market,urban,1,0,0,1.2,88
+Office Area,9,0,1,0,0,office,urban,0,0,1,1.2,53
+Office Area,19,4,6,0,0,office,urban,0,0,1,0.7,69
+Market Area,17,5,6,1,0,market,urban,1,0,0,0.7,81
+Beach,9,6,9,1,0,beach,tourist,0,0,0,1.0,35
+Office Area,19,6,2,1,0,office,urban,0,0,1,1.2,100
+Hill Station,18,0,9,0,0,tourist,tourist,1,0,0,1.0,88
+Market Area,22,1,2,0,0,market,urban,0,0,0,1.2,45
+Village Area,19,3,5,0,0,rural,rural,0,0,0,1.0,49
+City Area,11,3,7,0,0,urban,urban,0,0,0,0.7,32
+City Area,17,4,12,0,0,urban,urban,1,0,0,1.4,85
+Beach,20,4,9,0,0,beach,tourist,0,1,0,1.0,100
+Mall Area,20,3,8,0,0,mall,urban,0,0,0,0.7,79
+Market Area,9,5,8,1,0,market,urban,0,0,0,0.7,52
+Hill Station,19,5,5,1,0,tourist,tourist,0,0,0,1.0,77
+Village Area,19,2,4,0,0,rural,rural,0,0,0,1.0,44
+Hill Station,18,6,5,1,0,tourist,tourist,1,0,0,1.0,100
+Beach,11,3,12,0,0,beach,tourist,0,0,0,1.4,62
+Market Area,20,4,5,0,0,market,urban,0,0,0,1.0,76
+Hill Station,19,2,3,0,0,tourist,tourist,0,0,0,1.2,69
+Hill Station,22,0,5,0,0,tourist,tourist,0,0,0,1.0,18
+Village Area,13,4,8,0,0,rural,rural,0,0,0,0.7,14
+Mall Area,9,6,11,1,0,mall,urban,0,0,0,1.4,59
+Market Area,15,0,3,0,0,market,urban,0,0,0,1.2,74
+City Area,15,5,7,1,0,urban,urban,0,0,0,0.7,40
+Village Area,9,5,6,1,0,rural,rural,0,0,0,0.7,18
+Office Area,18,6,7,1,0,office,urban,1,0,1,0.7,82
+Office Area,19,6,11,1,0,office,urban,0,0,1,1.4,100
+Mall Area,22,0,3,0,0,mall,urban,0,0,0,1.2,24
+Hill Station,20,6,12,1,0,tourist,tourist,0,0,0,1.4,100
+Mall Area,13,2,7,0,0,mall,urban,0,0,0,0.7,26
+Hill Station,9,0,6,0,0,tourist,tourist,0,0,0,0.7,11
+City Area,11,5,2,1,0,urban,urban,0,0,0,1.2,79
+Beach,9,2,11,0,0,beach,tourist,0,0,0,1.4,25
+Market Area,13,5,3,1,0,market,urban,0,0,0,1.2,100
+Hill Station,18,3,8,0,0,tourist,tourist,1,0,0,0.7,67
+Office Area,22,6,4,1,0,office,urban,0,0,0,1.0,44
+Hill Station,17,1,9,0,0,tourist,tourist,1,0,0,1.0,95
+Hill Station,19,6,8,1,0,tourist,tourist,0,0,0,0.7,60
+City Area,13,0,5,0,0,urban,urban,0,0,0,1.0,49
+City Area,20,5,12,1,0,urban,urban,0,0,0,1.4,100
+Village Area,20,1,3,0,0,rural,rural,0,0,0,1.2,57
+Market Area,17,5,2,1,0,market,urban,1,0,0,1.2,100
+Market Area,17,2,2,0,0,market,urban,1,0,0,1.2,91
+Mall Area,18,4,8,0,0,mall,urban,1,0,0,0.7,72
+Beach,22,0,3,0,0,beach,tourist,0,1,0,1.2,55
+Mall Area,13,2,11,0,0,mall,urban,0,0,0,1.4,59
+Market Area,17,5,7,1,0,market,urban,1,0,0,0.7,77
+Hill Station,20,5,2,1,0,tourist,tourist,0,0,0,1.2,96
+Office Area,13,5,4,1,0,office,urban,0,0,0,1.0,63
+Village Area,17,0,2,0,0,rural,rural,1,0,0,1.2,57
+City Area,18,2,10,0,0,urban,urban,1,0,0,1.4,87
+Mall Area,13,2,12,0,0,mall,urban,0,0,0,1.4,68
+Beach,17,4,5,0,0,beach,tourist,1,0,0,1.0,80
+Beach,22,4,10,0,0,beach,tourist,0,1,0,1.4,61
+Beach,18,6,6,1,0,beach,tourist,1,0,0,0.7,97
+Office Area,11,1,6,0,0,office,urban,0,0,1,0.7,54
+Market Area,19,5,10,1,0,market,urban,0,0,0,1.4,100
+City Area,15,4,12,0,0,urban,urban,0,0,0,1.4,67
+Office Area,9,2,2,0,0,office,urban,0,0,1,1.2,49
+Office Area,13,6,3,1,0,office,urban,0,0,0,1.2,74
+Village Area,19,5,10,1,0,rural,rural,0,0,0,1.4,96
+Village Area,9,3,7,0,0,rural,rural,0,0,0,0.7,5
+Beach,20,1,4,0,0,beach,tourist,0,1,0,1.0,100
+Hill Station,18,1,11,0,0,tourist,tourist,1,0,0,1.4,100
+Office Area,11,4,5,0,0,office,urban,0,0,1,1.0,67
+Market Area,17,1,7,0,0,market,urban,1,0,0,0.7,64
+Beach,20,2,9,0,0,beach,tourist,0,1,0,1.0,100
+City Area,13,2,5,0,0,urban,urban,0,0,0,1.0,40
+Market Area,18,3,6,0,0,market,urban,1,0,0,0.7,62
+Office Area,20,6,12,1,0,office,urban,0,0,1,1.4,100
+Beach,15,5,3,1,0,beach,tourist,0,0,0,1.2,83
+Village Area,9,6,10,1,0,rural,rural,0,0,0,1.4,43
+City Area,19,3,10,0,0,urban,urban,0,0,0,1.4,88
+Mall Area,13,6,5,1,0,mall,urban,0,0,0,1.0,63
+Village Area,9,6,5,1,0,rural,rural,0,0,0,1.0,25
+Hill Station,17,0,10,0,0,tourist,tourist,1,0,0,1.4,100
+Beach,17,2,5,0,0,beach,tourist,1,0,0,1.0,85
+Market Area,20,2,8,0,0,market,urban,0,0,0,0.7,58
+City Area,22,0,9,0,0,urban,urban,0,0,0,1.0,22
+Village Area,19,3,10,0,0,rural,rural,0,0,0,1.4,71
+Hill Station,20,5,2,1,0,tourist,tourist,0,0,0,1.2,100
+Market Area,19,5,4,1,0,market,urban,0,0,0,1.0,100
+City Area,20,3,3,0,0,urban,urban,0,0,0,1.2,71
+Office Area,15,6,11,1,0,office,urban,0,0,0,1.4,95
+City Area,20,5,11,1,0,urban,urban,0,0,0,1.4,100
+Village Area,18,4,7,0,0,rural,rural,1,0,0,0.7,28
+Mall Area,22,3,6,0,0,mall,urban,0,0,0,0.7,17
+City Area,19,6,3,1,0,urban,urban,0,0,0,1.2,98
+City Area,18,6,4,1,0,urban,urban,1,0,0,1.0,82
+Mall Area,22,1,9,0,0,mall,urban,0,0,0,1.0,23
+Village Area,20,1,11,0,0,rural,rural,0,0,0,1.4,66
+Market Area,17,0,5,0,0,market,urban,1,0,0,1.0,85
+City Area,11,6,1,1,0,urban,urban,0,0,0,1.2,78
+Beach,19,2,12,0,0,beach,tourist,0,0,0,1.4,100
+Village Area,20,6,1,1,0,rural,rural,0,0,0,1.2,84
+Hill Station,15,0,4,0,0,tourist,tourist,0,0,0,1.0,41
+Market Area,13,3,3,0,0,market,urban,0,0,0,1.2,74
+Hill Station,20,6,2,1,0,tourist,tourist,0,0,0,1.2,98
+Mall Area,11,5,11,1,0,mall,urban,0,0,0,1.4,93
+Beach,13,5,6,1,0,beach,tourist,0,0,0,0.7,48
+Hill Station,9,3,2,0,0,tourist,tourist,0,0,0,1.2,24
+Mall Area,22,2,1,0,0,mall,urban,0,0,0,1.2,21
+Village Area,13,6,4,1,0,rural,rural,0,0,0,1.0,55
+Market Area,11,5,9,1,0,market,urban,0,0,0,1.0,85
+City Area,20,3,3,0,0,urban,urban,0,0,0,1.2,71
+Office Area,22,4,10,0,0,office,urban,0,0,0,1.4,33
+Village Area,13,2,7,0,0,rural,rural,0,0,0,0.7,16
+Beach,9,0,3,0,0,beach,tourist,0,0,0,1.2,22
+Hill Station,19,1,4,0,0,tourist,tourist,0,0,0,1.0,55
+City Area,15,3,9,0,0,urban,urban,0,0,0,1.0,42
+Mall Area,15,3,11,0,0,mall,urban,0,0,0,1.4,68
+City Area,19,3,8,0,0,urban,urban,0,0,0,0.7,44
+Office Area,9,1,4,0,0,office,urban,0,0,1,1.0,40
+Village Area,17,5,6,1,0,rural,rural,1,0,0,0.7,43
+Office Area,13,4,4,0,0,office,urban,0,0,0,1.0,48
+Market Area,19,2,8,0,0,market,urban,0,0,0,0.7,67
+City Area,18,5,11,1,0,urban,urban,1,0,0,1.4,100
+Office Area,22,1,10,0,0,office,urban,0,0,0,1.4,29
+Village Area,15,3,7,0,0,rural,rural,0,0,0,0.7,11
+Beach,13,2,6,0,0,beach,tourist,0,0,0,0.7,31
+Village Area,20,0,6,0,0,rural,rural,0,0,0,0.7,24
+Mall Area,18,5,2,1,0,mall,urban,1,0,0,1.2,100
+Hill Station,15,1,9,0,0,tourist,tourist,0,0,0,1.0,47
+Mall Area,22,5,5,1,0,mall,urban,0,0,0,1.0,35
+Market Area,17,0,6,0,0,market,urban,1,0,0,0.7,64
+City Area,15,0,4,0,0,urban,urban,0,0,0,1.0,46
+Mall Area,15,2,2,0,0,mall,urban,0,0,0,1.2,50
+Office Area,19,2,2,0,0,office,urban,0,0,1,1.2,100
+Hill Station,22,3,10,0,0,tourist,tourist,0,0,0,1.4,27
+City Area,11,6,11,1,0,urban,urban,0,0,0,1.4,94
+Hill Station,20,3,7,0,0,tourist,tourist,0,0,0,0.7,43
+Market Area,19,2,5,0,0,market,urban,0,0,0,1.0,84
+Office Area,22,1,9,0,0,office,urban,0,0,0,1.0,22
+City Area,9,3,1,0,0,urban,urban,0,0,0,1.2,21
+Office Area,9,3,4,0,0,office,urban,0,0,1,1.0,43
+Office Area,17,0,2,0,0,office,urban,1,0,1,1.2,100
+Beach,11,5,1,1,0,beach,tourist,0,0,0,1.2,76
+Village Area,19,1,8,0,0,rural,rural,0,0,0,0.7,23
+Office Area,9,1,1,0,0,office,urban,0,0,1,1.2,46
+Village Area,18,1,4,0,0,rural,rural,1,0,0,1.0,45
+Mall Area,13,2,10,0,0,mall,urban,0,0,0,1.4,65
+Village Area,11,6,11,1,0,rural,rural,0,0,0,1.4,76
+Market Area,22,6,11,1,0,market,urban,0,0,0,1.4,72
+Hill Station,13,5,7,1,0,tourist,tourist,0,0,0,0.7,48
+Hill Station,9,6,12,1,0,tourist,tourist,0,0,0,1.4,60
+Market Area,18,6,1,1,0,market,urban,1,0,0,1.2,100
+City Area,13,5,10,1,0,urban,urban,0,0,0,1.4,93
+Office Area,20,5,7,1,0,office,urban,0,0,1,0.7,90
+Village Area,18,0,12,0,0,rural,rural,1,0,0,1.4,68
+Village Area,15,2,8,0,0,rural,rural,0,0,0,0.7,19
+Office Area,18,0,4,0,0,office,urban,1,0,1,1.0,93
+Mall Area,22,5,10,1,0,mall,urban,0,0,0,1.4,55
+Beach,19,3,5,0,0,beach,tourist,0,0,0,1.0,75
+Hill Station,17,3,4,0,0,tourist,tourist,1,0,0,1.0,87
+Beach,18,5,4,1,0,beach,tourist,1,0,0,1.0,100
+City Area,9,3,6,0,0,urban,urban,0,0,0,0.7,10
+Village Area,9,3,1,0,0,rural,rural,0,0,0,1.2,10
+Beach,18,1,9,0,0,beach,tourist,1,0,0,1.0,100
+Village Area,19,2,8,0,0,rural,rural,0,0,0,0.7,25
+Hill Station,9,3,9,0,0,tourist,tourist,0,0,0,1.0,20
+City Area,13,4,6,0,0,urban,urban,0,0,0,0.7,35
+City Area,22,2,7,0,0,urban,urban,0,0,0,0.7,14
+City Area,13,6,8,1,0,urban,urban,0,0,0,0.7,47
+Market Area,20,2,4,0,0,market,urban,0,0,0,1.0,76
+Village Area,18,3,7,0,0,rural,rural,1,0,0,0.7,28
+Mall Area,20,3,10,0,0,mall,urban,0,0,0,1.4,100
+Office Area,9,0,1,0,0,office,urban,0,0,1,1.2,52
+Beach,9,4,11,0,0,beach,tourist,0,0,0,1.4,23
+Village Area,17,0,12,0,0,rural,rural,1,0,0,1.4,72
+Market Area,19,2,11,0,0,market,urban,0,0,0,1.4,100
+Office Area,13,2,5,0,0,office,urban,0,0,0,1.0,41
+Office Area,19,2,2,0,0,office,urban,0,0,1,1.2,100
+Beach,15,4,7,0,0,beach,tourist,0,0,0,0.7,26
+Village Area,18,5,6,1,0,rural,rural,1,0,0,0.7,43
+Office Area,15,4,5,0,0,office,urban,0,0,0,1.0,43
+Beach,13,6,2,1,0,beach,tourist,0,0,0,1.2,81
+City Area,19,4,6,0,0,urban,urban,0,0,0,0.7,46
+City Area,20,6,2,1,0,urban,urban,0,0,0,1.2,94
+Hill Station,18,1,8,0,0,tourist,tourist,1,0,0,0.7,67
+Village Area,17,5,4,1,0,rural,rural,1,0,0,1.0,69
+Office Area,9,4,9,0,0,office,urban,0,0,1,1.0,47
+Mall Area,18,2,11,0,0,mall,urban,1,0,0,1.4,100
+Hill Station,13,1,12,0,0,tourist,tourist,0,0,0,1.4,60
+Office Area,19,2,6,0,0,office,urban,0,0,1,0.7,73
+Mall Area,22,3,4,0,0,mall,urban,0,0,0,1.0,17
+Market Area,19,0,2,0,0,market,urban,0,0,0,1.2,88
+Mall Area,18,1,6,0,0,mall,urban,1,0,0,0.7,75
+City Area,9,5,11,1,0,urban,urban,0,0,0,1.4,52
+Village Area,13,4,8,0,0,rural,rural,0,0,0,0.7,21
+Market Area,18,0,1,0,0,market,urban,1,0,0,1.2,88
+Market Area,15,6,7,1,0,market,urban,0,0,0,0.7,61
+Village Area,11,3,5,0,0,rural,rural,0,0,0,1.0,27
+Beach,13,1,10,0,0,beach,tourist,0,0,0,1.4,57
+Hill Station,13,3,3,0,0,tourist,tourist,0,0,0,1.2,55
+Office Area,11,3,11,0,0,office,urban,0,0,1,1.4,84
+Market Area,9,1,11,0,0,market,urban,0,0,0,1.4,51
+Mall Area,18,4,2,0,0,mall,urban,1,0,0,1.2,100
+Office Area,15,1,1,0,0,office,urban,0,0,0,1.2,49
+Office Area,18,5,2,1,0,office,urban,1,0,1,1.2,100
+City Area,15,2,6,0,0,urban,urban,0,0,0,0.7,28
+Village Area,19,5,9,1,0,rural,rural,0,0,0,1.0,64
+Office Area,17,1,6,0,0,office,urban,1,0,1,0.7,73
+Mall Area,18,5,7,1,0,mall,urban,1,0,0,0.7,93
+Office Area,9,1,9,0,0,office,urban,0,0,1,1.0,40
+Village Area,13,1,3,0,0,rural,rural,0,0,0,1.2,35
+Mall Area,13,5,2,1,0,mall,urban,0,0,0,1.2,76
+Beach,9,6,4,1,0,beach,tourist,0,0,0,1.0,42
+Beach,13,3,11,0,0,beach,tourist,0,0,0,1.4,66
+Market Area,22,2,5,0,0,market,urban,0,0,0,1.0,40
+Office Area,11,6,2,1,0,office,urban,0,0,1,1.2,100
+Hill Station,15,6,9,1,0,tourist,tourist,0,0,0,1.0,70
+Mall Area,20,5,1,1,0,mall,urban,0,0,0,1.2,100
+Hill Station,9,4,7,0,0,tourist,tourist,0,0,0,0.7,14
+Beach,15,2,8,0,0,beach,tourist,0,0,0,0.7,35
+Market Area,15,0,8,0,0,market,urban,0,0,0,0.7,48
+Hill Station,9,4,7,0,0,tourist,tourist,0,0,0,0.7,14
+Market Area,9,3,2,0,0,market,urban,0,0,0,1.2,42
+Mall Area,13,3,1,0,0,mall,urban,0,0,0,1.2,50
+Mall Area,11,4,5,0,0,mall,urban,0,0,0,1.0,41
+Beach,13,2,10,0,0,beach,tourist,0,0,0,1.4,60
+Hill Station,22,0,8,0,0,tourist,tourist,0,0,0,0.7,19
+Office Area,20,4,7,0,0,office,urban,0,0,1,0.7,70
+City Area,13,4,4,0,0,urban,urban,0,0,0,1.0,46
+Beach,17,4,4,0,0,beach,tourist,1,0,0,1.0,88
+Market Area,11,5,1,1,0,market,urban,0,0,0,1.2,97
+Beach,11,4,8,0,0,beach,tourist,0,0,0,0.7,32
+Office Area,11,5,11,1,0,office,urban,0,0,1,1.4,100
+Office Area,19,4,8,0,0,office,urban,0,0,1,0.7,73
+Village Area,19,2,10,0,0,rural,rural,0,0,0,1.4,72
+Mall Area,18,4,12,0,0,mall,urban,1,0,0,1.4,100
+Office Area,22,4,1,0,0,office,urban,0,0,0,1.2,27
+City Area,15,0,8,0,0,urban,urban,0,0,0,0.7,33
+Market Area,17,1,2,0,0,market,urban,1,0,0,1.2,91
+City Area,15,4,11,0,0,urban,urban,0,0,0,1.4,67
+Office Area,18,6,10,1,0,office,urban,1,0,1,1.4,100
+Village Area,18,1,9,0,0,rural,rural,1,0,0,1.0,43
+Hill Station,13,5,8,1,0,tourist,tourist,0,0,0,0.7,41
+Office Area,13,2,5,0,0,office,urban,0,0,0,1.0,43
+Hill Station,15,0,4,0,0,tourist,tourist,0,0,0,1.0,50
+Office Area,19,4,1,0,0,office,urban,0,0,1,1.2,97
+Hill Station,19,1,11,0,0,tourist,tourist,0,0,0,1.4,86
+Office Area,13,2,8,0,0,office,urban,0,0,0,0.7,30
+Beach,11,3,6,0,0,beach,tourist,0,0,0,0.7,26
+Mall Area,18,3,12,0,0,mall,urban,1,0,0,1.4,100
+Market Area,11,0,1,0,0,market,urban,0,0,0,1.2,74
+City Area,20,0,10,0,0,urban,urban,0,0,0,1.4,81
+City Area,17,2,5,0,0,urban,urban,1,0,0,1.0,65
+Village Area,9,2,5,0,0,rural,rural,0,0,0,1.0,5
+Office Area,22,4,1,0,0,office,urban,0,0,0,1.2,20
+Village Area,11,3,6,0,0,rural,rural,0,0,0,0.7,19
+Mall Area,13,5,2,1,0,mall,urban,0,0,0,1.2,81
+Office Area,17,4,6,0,0,office,urban,1,0,1,0.7,76
+City Area,17,3,10,0,0,urban,urban,1,0,0,1.4,81
+Office Area,19,1,10,0,0,office,urban,0,0,1,1.4,100
+Village Area,20,5,10,1,0,rural,rural,0,0,0,1.4,95
+Beach,13,3,4,0,0,beach,tourist,0,0,0,1.0,41
+Office Area,11,6,11,1,0,office,urban,0,0,1,1.4,100
+Mall Area,19,2,2,0,0,mall,urban,0,0,0,1.2,100
+Office Area,22,3,1,0,0,office,urban,0,0,0,1.2,22
+Office Area,20,2,3,0,0,office,urban,0,0,1,1.2,97
+Hill Station,20,2,7,0,0,tourist,tourist,0,0,0,0.7,39
+Mall Area,18,3,9,0,0,mall,urban,1,0,0,1.0,93
+Beach,17,4,3,0,0,beach,tourist,1,0,0,1.2,95
+Office Area,11,0,9,0,0,office,urban,0,0,1,1.0,66
+Village Area,20,5,2,1,0,rural,rural,0,0,0,1.2,79
+Beach,20,2,6,0,0,beach,tourist,0,1,0,0.7,87
+Mall Area,18,6,6,1,0,mall,urban,1,0,0,0.7,95
+Mall Area,15,6,10,1,0,mall,urban,0,0,0,1.4,90
+Office Area,9,1,2,0,0,office,urban,0,0,1,1.2,49
+City Area,20,1,12,0,0,urban,urban,0,0,0,1.4,79
+Mall Area,15,3,1,0,0,mall,urban,0,0,0,1.2,55
+Hill Station,22,6,3,1,0,tourist,tourist,0,0,0,1.2,43
+Hill Station,11,3,6,0,0,tourist,tourist,0,0,0,0.7,36
+Office Area,13,6,11,1,0,office,urban,0,0,0,1.4,92
+Hill Station,20,3,2,0,0,tourist,tourist,0,0,0,1.2,73
+Market Area,17,5,12,1,0,market,urban,1,0,0,1.4,100
+Village Area,18,6,10,1,0,rural,rural,1,0,0,1.4,100
+Mall Area,9,4,11,0,0,mall,urban,0,0,0,1.4,26
+Market Area,20,5,4,1,0,market,urban,0,0,0,1.0,100
+Beach,19,3,2,0,0,beach,tourist,0,0,0,1.2,97
+Village Area,11,5,9,1,0,rural,rural,0,0,0,1.0,53
+Office Area,15,0,4,0,0,office,urban,0,0,0,1.0,48
+Office Area,18,4,4,0,0,office,urban,1,0,1,1.0,90
+Mall Area,15,5,12,1,0,mall,urban,0,0,0,1.4,91
+City Area,22,3,7,0,0,urban,urban,0,0,0,0.7,16
+City Area,18,4,11,0,0,urban,urban,1,0,0,1.4,79
+Office Area,20,1,9,0,0,office,urban,0,0,1,1.0,95
+Mall Area,9,2,4,0,0,mall,urban,0,0,0,1.0,22
+Hill Station,13,6,10,1,0,tourist,tourist,0,0,0,1.4,91
+Market Area,18,1,2,0,0,market,urban,1,0,0,1.2,87
+Market Area,15,2,3,0,0,market,urban,0,0,0,1.2,74
+Hill Station,20,2,3,0,0,tourist,tourist,0,0,0,1.2,75
+City Area,13,4,2,0,0,urban,urban,0,0,0,1.2,57
+Beach,20,2,8,0,0,beach,tourist,0,1,0,0.7,95
+Office Area,17,3,11,0,0,office,urban,1,0,1,1.4,100
+Market Area,15,6,9,1,0,market,urban,0,0,0,1.0,84
+Market Area,19,2,2,0,0,market,urban,0,0,0,1.2,90
+Hill Station,18,0,8,0,0,tourist,tourist,1,0,0,0.7,69
+City Area,22,3,12,0,0,urban,urban,0,0,0,1.4,33
+Beach,15,6,7,1,0,beach,tourist,0,0,0,0.7,40
+Office Area,20,0,11,0,0,office,urban,0,0,1,1.4,100
+Market Area,17,3,6,0,0,market,urban,1,0,0,0.7,63
+Office Area,22,4,12,0,0,office,urban,0,0,0,1.4,28
+Hill Station,20,4,1,0,0,tourist,tourist,0,0,0,1.2,77
+Market Area,19,6,8,1,0,market,urban,0,0,0,0.7,73
+Market Area,17,2,8,0,0,market,urban,1,0,0,0.7,60
+Office Area,20,2,7,0,0,office,urban,0,0,1,0.7,72
+Village Area,9,6,10,1,0,rural,rural,0,0,0,1.4,38
+Office Area,17,6,7,1,0,office,urban,1,0,1,0.7,83
+Beach,22,4,10,0,0,beach,tourist,0,1,0,1.4,55
+Hill Station,13,0,1,0,0,tourist,tourist,0,0,0,1.2,54
+Office Area,15,5,9,1,0,office,urban,0,0,0,1.0,63
+Hill Station,19,1,2,0,0,tourist,tourist,0,0,0,1.2,68
+Market Area,15,1,9,0,0,market,urban,0,0,0,1.0,63
+Mall Area,9,6,8,1,0,mall,urban,0,0,0,0.7,30
+Beach,18,4,4,0,0,beach,tourist,1,0,0,1.0,100
+City Area,22,2,7,0,0,urban,urban,0,0,0,0.7,10
+Hill Station,18,2,10,0,0,tourist,tourist,1,0,0,1.4,100
+Village Area,22,3,10,0,0,rural,rural,0,0,0,1.4,8
+Hill Station,19,6,3,1,0,tourist,tourist,0,0,0,1.2,96
+Hill Station,18,0,6,0,0,tourist,tourist,1,0,0,0.7,74
+Office Area,9,6,5,1,0,office,urban,0,0,1,1.0,63
+Hill Station,22,6,1,1,0,tourist,tourist,0,0,0,1.2,43
+Market Area,20,4,5,0,0,market,urban,0,0,0,1.0,75
+Office Area,11,5,11,1,0,office,urban,0,0,1,1.4,100
+Village Area,19,6,3,1,0,rural,rural,0,0,0,1.2,78
+Village Area,17,3,11,0,0,rural,rural,1,0,0,1.4,70
+Hill Station,19,0,12,0,0,tourist,tourist,0,0,0,1.4,82
+Hill Station,20,4,5,0,0,tourist,tourist,0,0,0,1.0,64
+Hill Station,11,4,10,0,0,tourist,tourist,0,0,0,1.4,62
+Village Area,15,4,1,0,0,rural,rural,0,0,0,1.2,41
+Mall Area,13,0,9,0,0,mall,urban,0,0,0,1.0,43
+Village Area,11,3,5,0,0,rural,rural,0,0,0,1.0,32
+Mall Area,11,4,11,0,0,mall,urban,0,0,0,1.4,58
+City Area,15,4,7,0,0,urban,urban,0,0,0,0.7,36
+Mall Area,20,0,8,0,0,mall,urban,0,0,0,0.7,76
+City Area,20,3,3,0,0,urban,urban,0,0,0,1.2,72
+Mall Area,11,5,4,1,0,mall,urban,0,0,0,1.0,65
+Mall Area,18,1,1,0,0,mall,urban,1,0,0,1.2,100
+Market Area,20,5,4,1,0,market,urban,0,0,0,1.0,100
+City Area,15,6,4,1,0,urban,urban,0,0,0,1.0,62
+City Area,19,0,5,0,0,urban,urban,0,0,0,1.0,64
+Beach,19,0,5,0,0,beach,tourist,0,0,0,1.0,77
+Village Area,19,2,1,0,0,rural,rural,0,0,0,1.2,54
+Mall Area,19,5,10,1,0,mall,urban,0,0,0,1.4,100
+Office Area,19,5,1,1,0,office,urban,0,0,1,1.2,100
+City Area,17,1,7,0,0,urban,urban,1,0,0,0.7,41
+Mall Area,19,4,5,0,0,mall,urban,0,0,0,1.0,100
+Mall Area,13,1,7,0,0,mall,urban,0,0,0,0.7,28
+Hill Station,9,3,3,0,0,tourist,tourist,0,0,0,1.2,22
+Beach,15,6,6,1,0,beach,tourist,0,0,0,0.7,42
+Hill Station,19,4,4,0,0,tourist,tourist,0,0,0,1.0,63
+Hill Station,11,3,12,0,0,tourist,tourist,0,0,0,1.4,63
+Village Area,11,1,7,0,0,rural,rural,0,0,0,0.7,12
+Office Area,18,0,12,0,0,office,urban,1,0,1,1.4,100
+Beach,18,0,4,0,0,beach,tourist,1,0,0,1.0,100
+Mall Area,17,3,11,0,0,mall,urban,1,0,0,1.4,100
+Village Area,20,3,6,0,0,rural,rural,0,0,0,0.7,32
+Office Area,22,4,11,0,0,office,urban,0,0,0,1.4,32
+City Area,9,1,4,0,0,urban,urban,0,0,0,1.0,20
+Office Area,20,4,10,0,0,office,urban,0,0,1,1.4,100
+Market Area,13,4,5,0,0,market,urban,0,0,0,1.0,60
+Village Area,20,1,4,0,0,rural,rural,0,0,0,1.0,40
+Beach,13,2,4,0,0,beach,tourist,0,0,0,1.0,41
+Beach,13,0,7,0,0,beach,tourist,0,0,0,0.7,32
+City Area,17,5,10,1,0,urban,urban,1,0,0,1.4,100
+Village Area,15,0,5,0,0,rural,rural,0,0,0,1.0,32
+Beach,13,4,9,0,0,beach,tourist,0,0,0,1.0,48
+Office Area,13,3,8,0,0,office,urban,0,0,0,0.7,32
+Village Area,11,3,9,0,0,rural,rural,0,0,0,1.0,28
+Hill Station,9,2,3,0,0,tourist,tourist,0,0,0,1.2,26
+Mall Area,15,2,12,0,0,mall,urban,0,0,0,1.4,60
+Market Area,15,6,1,1,0,market,urban,0,0,0,1.2,95
+Mall Area,18,2,8,0,0,mall,urban,1,0,0,0.7,79
+Market Area,19,4,4,0,0,market,urban,0,0,0,1.0,82
+City Area,17,1,5,0,0,urban,urban,1,0,0,1.0,60
+Market Area,11,2,9,0,0,market,urban,0,0,0,1.0,65
+Office Area,11,5,7,1,0,office,urban,0,0,1,0.7,71
+City Area,9,5,7,1,0,urban,urban,0,0,0,0.7,33
+Beach,20,5,2,1,0,beach,tourist,0,1,0,1.2,100
+Beach,20,2,11,0,0,beach,tourist,0,1,0,1.4,100
+Office Area,9,1,3,0,0,office,urban,0,0,1,1.2,49
+Mall Area,19,2,12,0,0,mall,urban,0,0,0,1.4,100
+Market Area,22,6,7,1,0,market,urban,0,0,0,0.7,49
+Hill Station,17,3,12,0,0,tourist,tourist,1,0,0,1.4,100
+Hill Station,17,5,10,1,0,tourist,tourist,1,0,0,1.4,100
+Office Area,20,6,5,1,0,office,urban,0,0,1,1.0,100
+Mall Area,17,3,6,0,0,mall,urban,1,0,0,0.7,81
+Mall Area,11,0,6,0,0,mall,urban,0,0,0,0.7,36
+City Area,20,4,1,0,0,urban,urban,0,0,0,1.2,76
+City Area,15,2,1,0,0,urban,urban,0,0,0,1.2,49
+Office Area,19,0,5,0,0,office,urban,0,0,1,1.0,91
+Village Area,13,5,9,1,0,rural,rural,0,0,0,1.0,53
+Market Area,13,5,2,1,0,market,urban,0,0,0,1.2,97
+Market Area,9,4,1,0,0,market,urban,0,0,0,1.2,40
+City Area,22,2,2,0,0,urban,urban,0,0,0,1.2,20
