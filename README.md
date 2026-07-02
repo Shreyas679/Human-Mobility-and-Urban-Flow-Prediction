@@ -19,8 +19,8 @@ This project predicts urban mobility patterns and traffic flow using historical 
 ## Tech Stack
 
 * Python (Flask/FastAPI)
-* Machine Learning (mention models you used)
-* React (or your frontend framework)
+* Machine Learning
+* React 
 * APIs & Data Processing
 
 ## How to Run
